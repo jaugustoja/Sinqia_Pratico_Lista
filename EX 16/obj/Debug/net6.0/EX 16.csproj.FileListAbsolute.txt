@@ -1,0 +1,15 @@
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\bin\Debug\net6.0\EX 16.exe
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\bin\Debug\net6.0\EX 16.deps.json
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\bin\Debug\net6.0\EX 16.runtimeconfig.json
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\bin\Debug\net6.0\EX 16.dll
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\bin\Debug\net6.0\EX 16.pdb
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.csproj.AssemblyReference.cache
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.AssemblyInfoInputs.cache
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.AssemblyInfo.cs
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.csproj.CoreCompileInputs.cache
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.dll
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\refint\EX 16.dll
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.pdb
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\EX 16.genruntimeconfig.cache
+C:\Users\jusea\OneDrive\Documentos\Sinqia\BeTheNext\Modulo 2 - POO\Exercicios\Lista jaque\EX 16\obj\Debug\net6.0\ref\EX 16.dll

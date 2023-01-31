@@ -1,0 +1,7 @@
+José Augusto Jimenes de Araújo
+
+14.Faça uma classe Album (de figurinhas) que tem como propriedades a quantidade de 
+figurinhas e um array de figurinhasColadas que recebe os números das figurinhas coladas. 
+Garanta que o array de figurinhasColadas apenas pode crescer. Tenha também um método 
+colarFigurinha que permita colar figurinhas que existam no álbum e 
+que não foram coladas ainda.
